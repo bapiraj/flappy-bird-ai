@@ -1,8 +1,8 @@
 # FLAPPY BIRD AI
 
-![](/images/flappy1.png)
-![](/images/flappy2.png)
-![](/images/flappy3.png)
+![](/images/flappy1.PNG)
+![](/images/flappy2.PNG)
+![](/images/flappy3.PNG)
 
 Install the dependencies by executing the following command:
 
